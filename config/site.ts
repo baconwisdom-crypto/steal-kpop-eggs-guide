@@ -11,8 +11,7 @@ export const siteConfig: SiteConfig = {
   architecture: {
     enabled: true,
     templates: [
-      "landing",
-      "hub"
+      "landing"
     ]
   },
   theme: {
