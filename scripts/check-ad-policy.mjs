@@ -1,0 +1,10 @@
+import assert from "node:assert/strict";
+import fs from "node:fs";
+import { stripTypeScriptTypes } from "node:module";
+const source = fs.readFileSync(new URL("../lib/ad-policy.ts", import.meta.url), "utf8");
+const policy = await import("data:text/javascript;base64," + Buffer.from(stripTypeScriptTypes(source)).toString("base64"));
+const bundle = JSON.parse(fs.readFileSync(new URL("../config/ad-units.json", import.meta.url), "utf8"));
+assert.equal(policy.isAdBundleReady(bundle, "www.stealkpopeggs.wiki"), true);
+for (const bad of [{...bundle, category: "Games"}, {...bundle, domain: "other.wiki"}, {...bundle, complete: false}, {...bundle, units: bundle.units.slice(1)}, {...bundle, units: bundle.units.map(u => u.format === "160x600" ? {...u,width:300} : u)}, {...bundle, units: bundle.units.map(u => u.format === "native" ? {...u,raw:""} : u)}]) assert.equal(policy.isAdBundleReady(bad, "www.stealkpopeggs.wiki"), false);
+for (const [format,width,desktop,expected] of [["vertical-rail",160,false,null],["vertical-rail",160,true,"160x600"],["responsive-banner",0,false,null],["responsive-banner",280,false,null],["responsive-banner",300,false,"300x250"],["responsive-banner",320,false,"320x50"],["responsive-banner",727,true,"320x50"],["responsive-banner",728,true,"728x90"],["sidebar-square",280,false,null],["sidebar-square",300,false,"300x250"]]) assert.equal(policy.selectAdFormat(format,width,desktop),expected);
+console.log("Ad policy passed: exact domain, Social, complete five-unit bundle, invalid bundles and responsive boundaries.");

@@ -226,3 +226,13 @@ body { background-color: var(--site-background); }
 .arch-page .ui-prose--lead { color: var(--site-text-strong); }
 
 .arch-landing-lead:not(:has(.arch-brand-image)) { grid-template-columns: minmax(0,1fr); }
+
+/* Domain-verified live units choose a size from measured available width. */
+.ad-slot[data-ad-provider="adsterra"] { contain: inline-size; width: 100%; max-width: 728px; padding: 0; border: 0; border-radius: 0; background: transparent; min-height: 0; height: auto; aspect-ratio: auto; }
+.ad-slot[data-ad-provider="adsterra"][data-ad-state="unavailable"] { gap: 0; }
+.ad-slot[data-ad-provider="adsterra"][data-ad-state="enabled"] { margin-block: 20px; }
+.ad-slot[data-ad-provider="adsterra"].ad-slot--vertical-rail { width: 160px; max-width: 160px; margin: 0; }
+.ad-slot[data-ad-provider="adsterra"].ad-slot--top-sticky { width: 320px; max-width: 320px; margin: 0; }
+.ad-slot[data-ad-provider="adsterra"].ad-slot--top-sticky > .ad-slot__label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.ad-slot[data-ad-provider="adsterra"].ad-slot--sidebar-square { max-width: 300px; }
+.ad-native { width: 100%; overflow: hidden; }
