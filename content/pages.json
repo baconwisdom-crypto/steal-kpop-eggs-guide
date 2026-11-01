@@ -1,0 +1,1072 @@
+[
+  {
+    "page_id": "home",
+    "route": "/",
+    "section": "Handbook",
+    "title": {
+      "en": "Steal KPOP Eggs! Wiki: Gameplay and Progression Guides"
+    },
+    "description": {
+      "en": "Bring eggs back from KPOP mascots, hatch photocards and train your speed for the next run."
+    },
+    "pageType": "Home",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Bring eggs back from KPOP mascots, hatch photocards and train your speed for the next run."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "Bring eggs back from KPOP mascots, hatch photocards and train your speed for the next run."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "loop",
+        "title": {
+          "en": "Plan your next session"
+        },
+        "paragraphs": [
+          {
+            "en": "Bring eggs back from KPOP mascots, hatch photocards and train your speed for the next run."
+          },
+          {
+            "en": "Start with the first-session walkthrough, then choose the guide that matches the task in front of you. Screenshots are placed beside the controls and actions they explain."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "home-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "start",
+      "speed",
+      "hatching"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Overview"
+      },
+      "order": 0
+    },
+    "primaryAction": {
+      "label": {
+        "en": "Start your first session"
+      },
+      "pageId": "start"
+    }
+  },
+  {
+    "page_id": "start",
+    "route": "/guides/getting-started/",
+    "section": "Handbook",
+    "title": {
+      "en": "Getting Started: Your First Egg and Photocard"
+    },
+    "description": {
+      "en": "Follow the tutorial arrows from your base to an egg and back to a hatch slot."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Follow the tutorial arrows from your base to an egg and back to a hatch slot."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The reviewed first-session recording begins with a Steal an egg! objective and red route arrows. The marked egg target also shows a distance. Follow the route from your base toward the mascot area."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "find",
+        "title": {
+          "en": "1. Follow the Steal an egg objective"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed first-session recording begins with a Steal an egg! objective and red route arrows. The marked egg target also shows a distance. Follow the route from your base toward the mascot area."
+          },
+          {
+            "en": "The game allows stealing from mascots and other players according to the official description. Use the tutorial’s marked target for a first run, and read the nearby interaction prompt when you reach the egg."
+          }
+        ],
+        "imageIds": [
+          "start-find-90"
+        ]
+      },
+      {
+        "id": "return",
+        "title": {
+          "en": "2. Bring the egg back to your base"
+        },
+        "paragraphs": [
+          {
+            "en": "After collection, the objective becomes Bring the egg back to your base! A house marker and distance identify the return route. The player visibly carries the egg above the avatar."
+          },
+          {
+            "en": "Head to your own marked base. Keep watching the objective so that you do not confuse another player’s display area with your destination. Exact penalties for being caught are not established by these frames."
+          }
+        ],
+        "imageIds": [
+          "start-return-110"
+        ]
+      },
+      {
+        "id": "place",
+        "title": {
+          "en": "3. Place the egg and wait"
+        },
+        "paragraphs": [
+          {
+            "en": "At the base, Place down your egg! replaces the return objective. Use an available hatch position and follow its prompt. The tutorial then displays Wait for your egg to hatch with a countdown."
+          },
+          {
+            "en": "This confirms that carrying an egg home and starting incubation are separate actions. If the return objective remains visible, check that you reached the marked base and actually placed the egg."
+          }
+        ],
+        "imageIds": [
+          "start-place-120"
+        ]
+      },
+      {
+        "id": "next",
+        "title": {
+          "en": "4. Train while the egg incubates"
+        },
+        "paragraphs": [
+          {
+            "en": "The first egg continues its countdown while the player uses the treadmill. Later, photocards stand on the base slots and show an income rate."
+          },
+          {
+            "en": "Use that waiting period to build Speed, then inspect the finished hatch. The next guides cover treadmill upgrades, displayed cards and route selection."
+          }
+        ],
+        "imageIds": [
+          "start-next-130"
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "start-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "start-find-90",
+        "src": "/images/video-5e8n3_7AYNY-90.webp",
+        "alt": {
+          "en": "1. Follow the Steal an egg objective in recorded gameplay"
+        },
+        "caption": {
+          "en": "1. Follow the Steal an egg objective 00:01:30"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=90s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:01:30"
+      },
+      {
+        "id": "start-return-110",
+        "src": "/images/video-5e8n3_7AYNY-110.webp",
+        "alt": {
+          "en": "2. Bring the egg back to your base in recorded gameplay"
+        },
+        "caption": {
+          "en": "2. Bring the egg back to your base 00:01:50"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=110s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:01:50"
+      },
+      {
+        "id": "start-place-120",
+        "src": "/images/video-5e8n3_7AYNY-120.webp",
+        "alt": {
+          "en": "3. Place the egg and wait in recorded gameplay"
+        },
+        "caption": {
+          "en": "3. Place the egg and wait 00:02:00"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=120s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:02:00"
+      },
+      {
+        "id": "start-next-130",
+        "src": "/images/video-5e8n3_7AYNY-130.webp",
+        "alt": {
+          "en": "4. Train while the egg incubates in recorded gameplay"
+        },
+        "caption": {
+          "en": "4. Train while the egg incubates 00:02:10"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=130s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:02:10"
+      }
+    ],
+    "relatedPageIds": [
+      "speed",
+      "hatching",
+      "cards"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Start Here"
+      },
+      "order": 1
+    }
+  },
+  {
+    "page_id": "speed",
+    "route": "/guides/speed-and-treadmill/",
+    "section": "Handbook",
+    "title": {
+      "en": "Speed and Treadmill Upgrades"
+    },
+    "description": {
+      "en": "Train during hatch timers and compare the displayed gain after upgrading."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Train during hatch timers and compare the displayed gain after upgrading."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "In the mobile recording, the player steps onto the treadmill and repeated shoe icons show +2 gains. The Speed counter rises while the character remains on the belt."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "train",
+        "title": {
+          "en": "Stand on the treadmill and watch Speed"
+        },
+        "paragraphs": [
+          {
+            "en": "In the mobile recording, the player steps onto the treadmill and repeated shoe icons show +2 gains. The Speed counter rises while the character remains on the belt."
+          },
+          {
+            "en": "Use a treadmill your account can access. Check the live gain and counter before leaving the character there; standing nearby alone does not prove training has started."
+          }
+        ],
+        "imageIds": [
+          "speed-train-220"
+        ]
+      },
+      {
+        "id": "upgrade",
+        "title": {
+          "en": "Use the nearby Upgrade control"
+        },
+        "paragraphs": [
+          {
+            "en": "An Upgrade panel beside the treadmill shows the next level and price. Later footage shows +5 gains on the treadmill. This demonstrates a higher observed training gain after progression."
+          },
+          {
+            "en": "Read the cash price and new level before buying. After purchase, get back on the belt and compare the gain shown on screen. Recorded costs can change with game updates."
+          }
+        ],
+        "imageIds": [
+          "speed-upgrade-600"
+        ]
+      },
+      {
+        "id": "routes",
+        "title": {
+          "en": "Use area recommendations as a warning"
+        },
+        "paragraphs": [
+          {
+            "en": "A later route entrance in the recording displays 20K recommended beside a shoe symbol. This is a recommended Speed indicator in that recorded area, not evidence of a universal hard unlock."
+          },
+          {
+            "en": "If a run feels too slow, return to train and bring back a manageable egg first. The guide does not assume that crossing the sign guarantees an escape or that every area uses the same requirement."
+          }
+        ],
+        "imageIds": [
+          "speed-routes-1200"
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "speed-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "speed-train-220",
+        "src": "/images/video-5e8n3_7AYNY-220.webp",
+        "alt": {
+          "en": "Stand on the treadmill and watch Speed in recorded gameplay"
+        },
+        "caption": {
+          "en": "Stand on the treadmill and watch Speed 00:03:40"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=220s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:03:40"
+      },
+      {
+        "id": "speed-upgrade-600",
+        "src": "/images/video-5e8n3_7AYNY-600.webp",
+        "alt": {
+          "en": "Use the nearby Upgrade control in recorded gameplay"
+        },
+        "caption": {
+          "en": "Use the nearby Upgrade control 00:10:00"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=600s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:10:00"
+      },
+      {
+        "id": "speed-routes-1200",
+        "src": "/images/video-5e8n3_7AYNY-1200.webp",
+        "alt": {
+          "en": "Use area recommendations as a warning in recorded gameplay"
+        },
+        "caption": {
+          "en": "Use area recommendations as a warning 00:20:00"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=1200s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:20:00"
+      }
+    ],
+    "relatedPageIds": [
+      "start",
+      "hatching",
+      "cards"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Speed and Treadmill Upgrades"
+      },
+      "order": 2
+    }
+  },
+  {
+    "page_id": "hatching",
+    "route": "/guides/hatching-eggs/",
+    "section": "Handbook",
+    "title": {
+      "en": "Hatching Eggs: Placement, Timers and Returns"
+    },
+    "description": {
+      "en": "Confirm that incubation has started and plan your next action around the visible timer."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Confirm that incubation has started and plan your next action around the visible timer."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The tutorial’s first incubation shows 1m 25s remaining in the reviewed frame. A later egg at the base is labeled Sandoki Pearl Sanctuary Egg with 3m 05s remaining. Different recorded eggs therefore have different remaining timers."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "timer",
+        "title": {
+          "en": "Confirm the countdown has started"
+        },
+        "paragraphs": [
+          {
+            "en": "The tutorial’s first incubation shows 1m 25s remaining in the reviewed frame. A later egg at the base is labeled Sandoki Pearl Sanctuary Egg with 3m 05s remaining. Different recorded eggs therefore have different remaining timers."
+          },
+          {
+            "en": "Use your own egg’s current countdown. A screenshot of remaining time does not establish its full incubation duration, and these values should not be treated as an all-eggs hatch table."
+          }
+        ],
+        "imageIds": [
+          "hatching-timer-1400"
+        ]
+      },
+      {
+        "id": "while",
+        "title": {
+          "en": "Use the waiting time for training"
+        },
+        "paragraphs": [
+          {
+            "en": "The tutorial recording shows the avatar leaving the base and training while its hatch countdown continues. You can use that overlap to improve Speed before the next collection run."
+          },
+          {
+            "en": "Return to inspect the finished egg and available base positions. The footage does not establish every capacity upgrade, hatch acceleration price or whether incubation continues offline."
+          }
+        ],
+        "imageIds": [
+          "hatching-while-145"
+        ]
+      },
+      {
+        "id": "rarity",
+        "title": {
+          "en": "Keep rarity, size and mutation separate"
+        },
+        "paragraphs": [
+          {
+            "en": "The official description advertises rarer eggs, photocards, sizes and mutations. Those are distinct properties. A rare-looking egg alone does not establish the exact card, size or mutation it will produce."
+          },
+          {
+            "en": "Check the current Index and the egg’s own information for collection progress. A complete verified probability table is unavailable; this guide does not invent odds for rare or divine cards."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "hatching-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "hatching-timer-1400",
+        "src": "/images/video-5e8n3_7AYNY-1400.webp",
+        "alt": {
+          "en": "Confirm the countdown has started in recorded gameplay"
+        },
+        "caption": {
+          "en": "Confirm the countdown has started 00:23:20"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=1400s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:23:20"
+      },
+      {
+        "id": "hatching-while-145",
+        "src": "/images/video-5e8n3_7AYNY-145.webp",
+        "alt": {
+          "en": "Use the waiting time for training in recorded gameplay"
+        },
+        "caption": {
+          "en": "Use the waiting time for training 00:02:25"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=145s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:02:25"
+      }
+    ],
+    "relatedPageIds": [
+      "start",
+      "speed",
+      "cards"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Hatching Eggs"
+      },
+      "order": 3
+    }
+  },
+  {
+    "page_id": "cards",
+    "route": "/guides/photocards-and-money/",
+    "section": "Handbook",
+    "title": {
+      "en": "Photocards, Money and Base Decisions"
+    },
+    "description": {
+      "en": "Read each displayed card’s rate and use verified income information before upgrading."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Read each displayed card’s rate and use verified income information before upgrading."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "Displayed photocards show their name, rarity, weight and cash per second in the recording. Examples include a Rare Yeosang and an Epic Julie with different displayed rates. These are observations from one session."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "display",
+        "title": {
+          "en": "Read the card above its base slot"
+        },
+        "paragraphs": [
+          {
+            "en": "Displayed photocards show their name, rarity, weight and cash per second in the recording. Examples include a Rare Yeosang and an Epic Julie with different displayed rates. These are observations from one session."
+          },
+          {
+            "en": "Compare the income printed on your current cards when choosing what to display. Rarity alone is an incomplete comparison because size and mutations also exist in this game."
+          }
+        ],
+        "imageIds": [
+          "cards-display-500"
+        ]
+      },
+      {
+        "id": "move",
+        "title": {
+          "en": "Check the Pick up card interaction"
+        },
+        "paragraphs": [
+          {
+            "en": "The recorded base shows a Pick up card prompt when the player approaches a displayed photocard. That establishes a way to retrieve the displayed object."
+          },
+          {
+            "en": "Before moving a valuable card, inspect available base space and the current prompt. The reviewed footage does not establish every replacement, sale or trade-confirmation step, so check the live dialog before confirming."
+          }
+        ],
+        "imageIds": [
+          "cards-move-800"
+        ]
+      },
+      {
+        "id": "offline",
+        "title": {
+          "en": "Treat offline income as an estimate shown by the game"
+        },
+        "paragraphs": [
+          {
+            "en": "The top of the recorded base screen shows You earn ... /Day offline, and the amount changes as the player progresses. This is visible in-game advertising of offline earnings."
+          },
+          {
+            "en": "The recording does not establish the maximum offline period, collection rules or formula. Use the actual return reward screen to check what was credited. Avoid treating a displayed daily rate as a guaranteed payout for every absence."
+          }
+        ],
+        "imageIds": [
+          "cards-offline-1600"
+        ]
+      },
+      {
+        "id": "trade",
+        "title": {
+          "en": "Trading is supported, but the full flow needs verification"
+        },
+        "paragraphs": [
+          {
+            "en": "The official description mentions trading photocards, and a Trade button appears on the left of the gameplay screen. The reviewed footage does not show a completed trade."
+          },
+          {
+            "en": "Check both sides of the actual offer and the final confirmation before accepting. This site currently has no verified market value list, mutation multiplier table or trade price calculator."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "cards-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "cards-display-500",
+        "src": "/images/video-5e8n3_7AYNY-500.webp",
+        "alt": {
+          "en": "Read the card above its base slot in recorded gameplay"
+        },
+        "caption": {
+          "en": "Read the card above its base slot 00:08:20"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=500s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:08:20"
+      },
+      {
+        "id": "cards-move-800",
+        "src": "/images/video-5e8n3_7AYNY-800.webp",
+        "alt": {
+          "en": "Check the Pick up card interaction in recorded gameplay"
+        },
+        "caption": {
+          "en": "Check the Pick up card interaction 00:13:20"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=800s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:13:20"
+      },
+      {
+        "id": "cards-offline-1600",
+        "src": "/images/video-5e8n3_7AYNY-1600.webp",
+        "alt": {
+          "en": "Treat offline income as an estimate shown by the game in recorded gameplay"
+        },
+        "caption": {
+          "en": "Treat offline income as an estimate shown by the game 00:26:40"
+        },
+        "ratio": "video",
+        "sourceId": "video-5e8n3_7AYNY",
+        "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=1600s",
+        "videoId": "5e8n3_7AYNY",
+        "timecode": "00:26:40"
+      }
+    ],
+    "relatedPageIds": [
+      "start",
+      "speed",
+      "hatching"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Photocards, Money and Base Decisions"
+      },
+      "order": 4
+    }
+  },
+  {
+    "page_id": "codes",
+    "route": "/codes/",
+    "section": "Handbook",
+    "title": {
+      "en": "Steal KPOP Eggs! Codes: Current Verification Status"
+    },
+    "description": {
+      "en": "What the official description currently lists, and what remains unconfirmed."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "What the official description currently lists, and what remains unconfirmed."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The official Roblox description checked November 1, 2026 contains no redeemable codes. That observation does not prove that a code system is absent from the game."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "status",
+        "title": {
+          "en": "No codes in the checked official description"
+        },
+        "paragraphs": [
+          {
+            "en": "The official Roblox description checked November 1, 2026 contains no redeemable codes. That observation does not prove that a code system is absent from the game."
+          },
+          {
+            "en": "No code has been redeemed by this site. We have not verified a complete code-entry interface, a current reward amount or an expiry date. Avoid copying codes from similarly named games."
+          }
+        ]
+      },
+      {
+        "id": "check",
+        "title": {
+          "en": "Where to check for an update"
+        },
+        "paragraphs": [
+          {
+            "en": "Use the exact Roblox game and developer community linked at the bottom of this page. A future code listing should include its spelling, stated reward and publication date."
+          },
+          {
+            "en": "If the game presents a redemption control, read its current instructions and record the actual response. This page will distinguish developer-listed codes from personally tested redemption results."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "codes-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "start",
+      "speed",
+      "hatching"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Codes"
+      },
+      "order": 5
+    }
+  },
+  {
+    "page_id": "about",
+    "route": "/about/",
+    "section": "Handbook",
+    "title": {
+      "en": "About This Steal KPOP Eggs! Guide"
+    },
+    "description": {
+      "en": "Game identity, evidence scope and site privacy."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Game identity, evidence scope and site privacy."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "This independent fan guide covers Steal KPOP Eggs! by BumClub. Universe ID: 10754403543. Root Place ID: 109148091959841. These identifiers were checked against Roblox’s official API on November 1, 2026."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "identity",
+        "title": {
+          "en": "The game covered here"
+        },
+        "paragraphs": [
+          {
+            "en": "This independent fan guide covers Steal KPOP Eggs! by BumClub. Universe ID: 10754403543. Root Place ID: 109148091959841. These identifiers were checked against Roblox’s official API on November 1, 2026."
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "title": {
+          "en": "How the material is checked"
+        },
+        "paragraphs": [
+          {
+            "en": "Official descriptions establish the advertised game systems. Reviewed community footage supplies the visible controls and screenshots. Unsupported prices, probabilities and unlock requirements remain marked as unknown."
+          },
+          {
+            "en": "This site has no player account or comment form. Advertising and analytics status will be updated when those services are actually enabled. Use the official developer community for account or purchase support."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "about-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "start",
+      "speed",
+      "hatching"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "About"
+      },
+      "order": 6
+    }
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "asset": "/images/video-5e8n3_7AYNY-90.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=90s",
+    "timecode": "00:01:30",
+    "text_block_id": "start.find",
+    "fact_ids": [
+      "start-find"
+    ],
+    "shot_ids": [
+      "start-find-90"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-110.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=110s",
+    "timecode": "00:01:50",
+    "text_block_id": "start.return",
+    "fact_ids": [
+      "start-return"
+    ],
+    "shot_ids": [
+      "start-return-110"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-120.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=120s",
+    "timecode": "00:02:00",
+    "text_block_id": "start.place",
+    "fact_ids": [
+      "start-place"
+    ],
+    "shot_ids": [
+      "start-place-120"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-130.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=130s",
+    "timecode": "00:02:10",
+    "text_block_id": "start.next",
+    "fact_ids": [
+      "start-next"
+    ],
+    "shot_ids": [
+      "start-next-130"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-220.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=220s",
+    "timecode": "00:03:40",
+    "text_block_id": "speed.train",
+    "fact_ids": [
+      "speed-train"
+    ],
+    "shot_ids": [
+      "speed-train-220"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-600.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=600s",
+    "timecode": "00:10:00",
+    "text_block_id": "speed.upgrade",
+    "fact_ids": [
+      "speed-upgrade"
+    ],
+    "shot_ids": [
+      "speed-upgrade-600"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-1200.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=1200s",
+    "timecode": "00:20:00",
+    "text_block_id": "speed.routes",
+    "fact_ids": [
+      "speed-routes"
+    ],
+    "shot_ids": [
+      "speed-routes-1200"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-1400.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=1400s",
+    "timecode": "00:23:20",
+    "text_block_id": "hatching.timer",
+    "fact_ids": [
+      "hatching-timer"
+    ],
+    "shot_ids": [
+      "hatching-timer-1400"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-145.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=145s",
+    "timecode": "00:02:25",
+    "text_block_id": "hatching.while",
+    "fact_ids": [
+      "hatching-while"
+    ],
+    "shot_ids": [
+      "hatching-while-145"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-500.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=500s",
+    "timecode": "00:08:20",
+    "text_block_id": "cards.display",
+    "fact_ids": [
+      "cards-display"
+    ],
+    "shot_ids": [
+      "cards-display-500"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-800.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=800s",
+    "timecode": "00:13:20",
+    "text_block_id": "cards.move",
+    "fact_ids": [
+      "cards-move"
+    ],
+    "shot_ids": [
+      "cards-move-800"
+    ]
+  },
+  {
+    "asset": "/images/video-5e8n3_7AYNY-1600.webp",
+    "sourceId": "video-5e8n3_7AYNY",
+    "sourceUrl": "https://www.youtube.com/watch?v=5e8n3_7AYNY&t=1600s",
+    "timecode": "00:26:40",
+    "text_block_id": "cards.offline",
+    "fact_ids": [
+      "cards-offline"
+    ],
+    "shot_ids": [
+      "cards-offline-1600"
+    ]
+  }
+]

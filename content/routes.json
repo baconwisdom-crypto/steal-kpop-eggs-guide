@@ -1,0 +1,44 @@
+[
+  {
+    "route": "/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/getting-started/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/speed-and-treadmill/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/hatching-eggs/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/photocards-and-money/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/codes/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/about/",
+    "locales": [
+      "en"
+    ]
+  }
+]

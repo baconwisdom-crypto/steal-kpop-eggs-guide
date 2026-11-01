@@ -1,0 +1,41 @@
+[
+  {
+    "id": "official-game",
+    "name": "Steal KPOP Eggs! on Roblox",
+    "publisher": "BumClub",
+    "type": "Official game description",
+    "url": "https://www.roblox.com/games/109148091959841",
+    "lastChecked": "2026-11-01",
+    "status": "Official",
+    "publicUse": "official-first-party",
+    "note": {
+      "en": "Exact game identity and current advertised features."
+    }
+  },
+  {
+    "id": "official-community",
+    "name": "BumClub community",
+    "publisher": "BumClub",
+    "type": "Official community",
+    "url": "https://www.roblox.com/communities/4467593",
+    "lastChecked": "2026-11-01",
+    "status": "Official",
+    "publicUse": "official-first-party",
+    "note": {
+      "en": "Developer community resolved from the official game API."
+    }
+  },
+  {
+    "id": "video-5e8n3_7AYNY",
+    "name": "Reviewed Steal KPOP Eggs! gameplay",
+    "publisher": "Community video creator",
+    "type": "Community gameplay",
+    "url": "https://www.youtube.com/watch?v=5e8n3_7AYNY",
+    "lastChecked": "2026-11-01",
+    "status": "Reviewed frames",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Screen-visible observations; no personal playtesting claim."
+    }
+  }
+]
