@@ -696,11 +696,60 @@
           },
           {
             "en": "Compare the income printed on your current cards when choosing what to display. Rarity alone is an incomplete comparison because size and mutations also exist in this game."
+          },
+          {
+            "en": "In this frame, Julie shows $70/s and Yeosang shows $17/s. The table records those specific displayed cards; it is not a fixed value list for every copy of either character."
           }
         ],
         "imageIds": [
           "cards-display-500"
-        ]
+        ],
+        "table": {
+          "columns": [
+            {
+              "en": "Recorded card"
+            },
+            {
+              "en": "Rarity"
+            },
+            {
+              "en": "Weight shown"
+            },
+            {
+              "en": "Income shown"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "en": "Yeosang"
+              },
+              {
+                "en": "Rare"
+              },
+              {
+                "en": "1.08 KG"
+              },
+              {
+                "en": "$17/s"
+              }
+            ],
+            [
+              {
+                "en": "Julie"
+              },
+              {
+                "en": "Epic"
+              },
+              {
+                "en": "1.00 KG"
+              },
+              {
+                "en": "$70/s"
+              }
+            ]
+          ]
+        }
       },
       {
         "id": "move",
@@ -747,6 +796,20 @@
           },
           {
             "en": "Check both sides of the actual offer and the final confirmation before accepting. This site currently has no verified market value list, mutation multiplier table or trade price calculator."
+          }
+        ]
+      },
+      {
+        "id": "base",
+        "title": {
+          "en": "Check what a base upgrade actually changes"
+        },
+        "paragraphs": [
+          {
+            "en": "The official description includes base upgrades. The reviewed material does not establish a complete capacity ladder, cost list or unlock order."
+          },
+          {
+            "en": "Read any upgrade offer shown in your own session before paying. Check which statistic changes, its cost and whether you can use the extra capacity. This guide has no verified fixed purchase order for base upgrades."
           }
         ]
       }
