@@ -7,7 +7,7 @@ export const siteConfig: SiteConfig = {
     en: "Bring eggs back from KPOP mascots, hatch photocards and train your speed for the next run."
   },
   siteUrl: "https://www.stealkpopeggs.wiki",
-  searchVisibility: "preview",
+  searchVisibility: "public",
   architecture: {
     enabled: true,
     templates: [
@@ -78,7 +78,7 @@ export const siteConfig: SiteConfig = {
   },
   ads: {
     enabled: false,
-    previewPlaceholders: true,
+    previewPlaceholders: false,
     desktopChrome: {
       enabled: true
     },
