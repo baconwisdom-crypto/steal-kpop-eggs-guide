@@ -13,6 +13,8 @@ export function isAdBundleReady(bundle: AdBundle, hostname: string) {
   });
 }
 export function selectAdFormat(format: string, width: number, desktop: boolean): AdFormat | null {
+  // Zoomed layouts can report 319.99px for a declared 320px container.
+  width = Math.floor(width + 0.1);
   if (format === "vertical-rail") return desktop ? "160x600" : null;
   if (format === "top-sticky") return width >= 320 ? "320x50" : null;
   if (format === "sidebar-square") return width >= 300 ? "300x250" : null;
